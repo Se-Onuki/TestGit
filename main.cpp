@@ -2,7 +2,7 @@
 
 int main (void)
 {
-	puts("HelloGit!");
+	puts("HelloGitWorld!");
 
 	return 0 ;
 }
